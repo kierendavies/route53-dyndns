@@ -1,2 +1,2 @@
 # route53-dyndns
-Dynamic DNS using Amazon Route 53
+Dynamic DNS with Amazon Route 53
