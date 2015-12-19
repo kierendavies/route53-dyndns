@@ -1,0 +1,5 @@
+aws-access-key-id = XXXXXXXXXXXXXXXXXXXX
+aws-secret-access-key = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+aws-region = us-east-1
+zone-name = example.com
+record-name = subdomain
