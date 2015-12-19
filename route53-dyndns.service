@@ -1,0 +1,6 @@
+[Unit]
+Description=Dynamic DNS with Amazon Route 53
+
+[Service]
+Type=oneshot
+ExecStart=/opt/route53-dyndns.py
